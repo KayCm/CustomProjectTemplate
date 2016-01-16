@@ -49,5 +49,9 @@ Carthage/Build
 # For more information about the recommended setup visit:
 # https://github.com/fastlane/fastlane/blob/master/docs/Gitignore.md
 
+# Ignore everything in this directory 
+* 
+# Except this file !.gitignore 
+
 fastlane/report.xml
 fastlane/screenshots
