@@ -26,6 +26,15 @@
 	</array>
 	<key>Definitions</key>
 	<dict>
+		<key>TestController.h</key>
+		<dict>
+			<key>Group</key>
+			<array>
+				<string>TestController.h</string>
+			</array>
+			<key>Path</key>
+			<string></string>
+		</dict>
 		<key>AppDelegate.h</key>
 		<dict>
 			<key>Group</key>
